@@ -1,0 +1,106 @@
+{
+"ambientocclusion": false,
+"textures": {
+    "particle": "#torch",
+    "torch": "blocks/torch_on",
+    "cauldron_inner": "blocks/cauldron_inner"
+},
+"elements": [ 
+{
+    "from": [ 0, 5, 7 ],
+    "to": [ 0.5, 7, 9 ],
+    "faces": {
+        "down":  { "uv": [ 3, 9, 3.5, 7 ], "texture": "#cauldron_inner" },
+        "up":    { "uv": [ 13, 4.5, 13.5, 6.5 ], "texture": "#cauldron_inner" },
+        "north": { "uv": [ 13.5, 4.5, 14, 6.5 ], "texture": "#cauldron_inner" },
+        "south": { "uv": [ 2.5, 4, 3, 6 ], "texture": "#cauldron_inner" },
+        "west":  { "uv": [ 1, 4.5, 3, 6.5 ], "texture": "#cauldron_inner" },
+        "east":  { "uv": [ 1, 4.5, 3, 6.5 ], "texture": "#cauldron_inner" }
+    }
+},
+{
+    "from": [ 0.5, 5.5, 7.5 ],
+    "to": [ 1.5, 6.5, 8.5 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 8.5, 8.5, 7.5 ], "texture": "#cauldron_inner" },
+        "up":    { "uv": [ 7, 0, 8, 1 ], "texture": "#cauldron_inner" },
+        "north": { "uv": [ 8.5, 11, 7.5, 12 ], "texture": "#torch" },
+        "south": { "uv": [ 7.5, 11, 8.5, 12 ], "texture": "#torch" },
+        "west":  { "uv": [ 7.5, 11, 8.5, 12 ], "texture": "#torch" },
+        "east":  { "uv": [ 7.5, 11, 8.5, 12 ], "texture": "#torch" }
+    }
+},
+{
+    "from": [ 1.5, 7, 7 ],
+    "to": [ 2.5, 10.5, 9 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 9, 8.5, 7 ], "texture": "#cauldron_inner" },
+        "up":    { "uv": [ 7.5, 7, 8.5, 9 ], "texture": "#cauldron_inner" },
+        "north": { "uv": [ 7.5, 6.5, 8.5, 10 ], "texture": "#torch" },
+        "south": { "uv": [ 7.5, 6.5, 8.5, 10 ], "texture": "#torch" },
+        "west":  { "uv": [ 7, 6.5, 9, 10 ], "texture": "#torch" },
+        "east":  { "uv": [ 7, 6.5, 9, 10 ], "texture": "#torch" }
+    }
+},
+{
+    "from": [ 1, 7, 7.5 ],
+    "to": [ 3, 10.5, 8.5 ],
+    "faces": {
+        "down":  { "uv": [ 7, 8.5, 9, 7.5 ], "texture": "#cauldron_inner" },
+        "up":    { "uv": [ 7, 7.5, 9, 8.5 ], "texture": "#cauldron_inner" },
+        "north": { "uv": [ 7, 6.5, 9, 10 ], "texture": "#torch" },
+        "south": { "uv": [ 7, 6.5, 9, 10 ], "texture": "#torch" },
+        "west":  { "uv": [ 7.5, 6.5, 8.5, 10 ], "texture": "#torch" },
+        "east":  { "uv": [ 7.5, 6.5, 8.5, 10 ], "texture": "#torch" }
+    }
+},
+{
+    "from": [ 1.5, 4, 7.5 ],
+    "to": [ 2.5, 7, 8.5 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 8.5, 8.5, 7.5 ], "texture": "#cauldron_inner" },
+        "up":    { "uv": [ 7.5, 7.5, 8.5, 8.5 ], "texture": "#cauldron_inner" },
+        "north": { "uv": [ 7.5, 10, 8.5, 13 ], "texture": "#torch" },
+        "south": { "uv": [ 7.5, 10, 8.5, 13 ], "texture": "#torch" },
+        "west":  { "uv": [ 7.5, 10, 8.5, 13 ], "texture": "#torch" },
+        "east":  { "uv": [ 7.5, 10, 8.5, 13 ], "texture": "#torch" }
+    }
+},
+{
+    "from": [ 0.5, 10.5, 7.5 ],
+    "to": [ 3.5, 11, 8.5 ],
+    "faces": {
+        "down":  { "uv": [ 0.5, 14, 3.5, 13 ], "texture": "#cauldron_inner" },
+        "up":    { "uv": [ 0.5, 13, 3.5, 14 ], "texture": "#cauldron_inner" },
+        "north": { "uv": [ 6.5, 6, 9.5, 6.5 ], "texture": "#torch" },
+        "south": { "uv": [ 6.5, 6, 9.5, 6.5 ], "texture": "#torch" },
+        "west":  { "uv": [ 7.5, 6, 8.5, 6.5 ], "texture": "#torch" },
+        "east":  { "uv": [ 7.5, 6, 8.5, 6.5 ], "texture": "#torch" }
+    }
+},
+{
+    "from": [ 1.5, 10.5, 6.5 ],
+    "to": [ 2.5, 11, 9.5 ],
+    "faces": {
+        "down":  { "uv": [ 1.5, 15, 2.5, 12 ], "texture": "#cauldron_inner" },
+        "up":    { "uv": [ 1.5, 12, 2.5, 15 ], "texture": "#cauldron_inner" },
+        "north": { "uv": [ 7.5, 6, 8.5, 6.5 ], "texture": "#torch" },
+        "south": { "uv": [ 7.5, 6, 8.5, 6.5 ], "texture": "#torch" },
+        "west":  { "uv": [ 6.5, 6, 9.5, 6.5 ], "texture": "#torch" },
+        "east":  { "uv": [ 6.5, 6, 9.5, 6.5 ], "texture": "#torch" }
+    }
+},
+{
+    "from": [ 1, 10.5, 7 ],
+    "to": [ 3, 11, 9 ],
+    "faces": {
+        "down":  { "uv": [ 1, 14.5, 3, 12.5 ], "texture": "#cauldron_inner" },
+        "up":    { "uv": [ 1, 12.5, 3, 14.5 ], "texture": "#cauldron_inner" },
+        "north": { "uv": [ 7, 6, 9, 6.5 ], "texture": "#torch" },
+        "south": { "uv": [ 7, 6, 9, 6.5 ], "texture": "#torch" },
+        "west":  { "uv": [ 7, 6, 9, 6.5 ], "texture": "#torch" },
+        "east":  { "uv": [ 7, 6, 9, 6.5 ], "texture": "#torch" }
+    }
+}
+]
+}
