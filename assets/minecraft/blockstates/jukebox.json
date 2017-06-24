@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "has_record=false": { "model": "jukebox_off" },
+		"has_record=true": { "model": "jukebox" }
+    }
+}
