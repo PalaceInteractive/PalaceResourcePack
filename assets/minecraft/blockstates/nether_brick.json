@@ -1,0 +1,11 @@
+{
+    "variants": 
+	{
+		"normal": 
+		[
+		{ "model": "nether_brick"  },
+		{ "model": "nether_brick2" },
+		{ "model": "nether_brick3" }
+		]
+    }
+}
