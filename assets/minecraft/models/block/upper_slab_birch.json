@@ -1,6 +1,1 @@
-{
-    "parent": "block/plankse_slab_top",
-    "textures": {
-        "texture": "blocks/planks_birch"
-    }
-} 
+{"parent":"block/plankse_slab_top","textures":{"texture":"block/birch_planks"}}

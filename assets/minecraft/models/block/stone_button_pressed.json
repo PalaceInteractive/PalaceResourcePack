@@ -1,6 +1,1 @@
-{
-    "parent": "block/button_pressed",
-    "textures": {
-        "texture": "blocks/stone_button"
-    }
-}
+{"parent":"block/button_pressed","textures":{"texture":"block/stone_button"}}

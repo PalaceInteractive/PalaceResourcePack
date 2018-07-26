@@ -1,6 +1,1 @@
-{
-    "parent": "block/grass_normal_1",
-    "textures": {
-        "grass": "blocks/asmallgrass8"
-    }
-} 
+{"parent":"block/grass_normal_1","textures":{"grass":"block/asmallgrass8"}}

@@ -1,8 +1,1 @@
-{
-    "parent": "block/upper_slab",
-    "textures": {
-        "bottom": "blocks/red_sandstone_smooth",
-        "top": "blocks/red_sandstone_smooth",
-        "side": "blocks/red_sandstone_slab"
-    }
-}
+{"parent":"block/upper_slab","textures":{"bottom":"block/cut_red_sandstone","top":"block/cut_red_sandstone","side":"block/red_sandstone_slab"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "block/plankse_slab_bot",
-    "textures": {
-        "texture": "blocks/planks_jungle"
-    }
-} 
+{"parent":"block/plankse_slab_bot","textures":{"texture":"block/jungle_planks"}}

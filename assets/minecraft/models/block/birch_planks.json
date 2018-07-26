@@ -1,6 +1,1 @@
-{
-    "parent": "block/plankse",
-    "textures": {
-        "texture": "blocks/planks_birch"
-    }
-} 
+{"parent":"block/plankse","textures":{"texture":"block/birch_planks"}}
